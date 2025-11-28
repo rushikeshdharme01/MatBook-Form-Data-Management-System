@@ -2,4 +2,4 @@
 .env
 *.env
 backend/.env
-# frontend/.env
+frontend/.env
